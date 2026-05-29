@@ -1,3 +1,4 @@
+```
 📁 Knowledge Base/
 ├── 📄 doctracker.md
 ├── 📁 01 - Project Overview/
@@ -57,3 +58,4 @@
     ├── 📄 02. faq-general-users.md
     ├── 📄 03. faq-developers.md
     └── 📄 04. faq-government-institutional.md
+```
